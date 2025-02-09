@@ -1,0 +1,15 @@
+# Deployment dependencies
+python-dotenv
+requests
+
+Flask==2.3.3
+flask-log-request-id
+flask-cors
+
+# Parse yaml files
+PyYAML==6.0.1
+
+# Database
+#flask-orator
+masonite-orm
+PyMySQL
